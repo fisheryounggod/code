@@ -1,0 +1,9 @@
+setup.py
+myfun/mydata.py
+myfun/myfun.py
+myfun/mymethod.py
+myfun/myplot.py
+myfun.egg-info/PKG-INFO
+myfun.egg-info/SOURCES.txt
+myfun.egg-info/dependency_links.txt
+myfun.egg-info/top_level.txt
