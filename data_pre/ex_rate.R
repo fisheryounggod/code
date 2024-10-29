@@ -7,17 +7,18 @@ ex_rate  <- rio::import("/Users/mac/Library/CloudStorage/OneDrive-个人/Researc
     rename(ex_rate=收市)
 ex_rate %>% head
 
-ex_rate %>% # 转为季度数据
-    select(year,everything()) %>% 
-    group_by(year) %>% 
-    summarise(ex_rate =mean(ex_rate))  -> ex_rate_year
+# ex_rate %>% # 转为年度数据
+#     select(year,everything()) %>% 
+#     group_by(year) %>% 
+#     summarise(ex_rate =mean(ex_rate))  -> ex_rate_year
 
 ex_rate %>% # 转为季度数据
     select(qtr,everything()) %>% 
     group_by(qtr) %>% 
-    summarise(ex_rate =mean(ex_rate))  -> ex_rate_qr
+    summarise(ex_rate =mean(ex_rate))  %>% 
+    mutate(date=as.Date(qtr)) -> ex_rate_qr
 
-rio::export(ex_rate_year,"/Users/mac/Github/fisheryounggod/gitdata/csv/ex_rate_year.csv")
-rio::export(ex_rate_qr,"/Users/mac/Github/fisheryounggod/gitdata/china/ex_rate_qr.csv")
+# rio::export(ex_rate_year,"/Users/mac/Github/fisheryounggod/gitdata/china/ex_rate/ex_rate_year.csv")
+rio::export(ex_rate_qr,"/Users/mac/Github/fisheryounggod/gitdata/china/ex_rate/ex_rate_qr.csv")
 
 ex_rate_qr %>% head

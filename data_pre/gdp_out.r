@@ -1,5 +1,6 @@
 # GDP数据：（亿RMB）
-gdp_qr  <-  rio::import("https://fisheryounggod.github.io/gitdata/csv/china_gdp_qr.csv") %>% 
+
+%>% 
     rename(GDP=`国内生产总值`) %>% 
     rename(date=`V1`) %>% 
     select(date,GDP) 
