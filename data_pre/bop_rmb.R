@@ -27,7 +27,7 @@ bop_qr %>% inner_join(ex_rate_qr, by = "qtr") %>%
     # select(date1, qtr, "1. 经常账户","ex_rate")  %>% 
     mutate_if(is.numeric, ~ . * ex_rate) %>% # 对所有数值变量执行统一操作
     select(-ex_rate) -> bop_rmb  
-# bop_rmb  %>% rio::export("/Users/mac/Github/fisheryounggod/gitdata/china/bop_rmb.csv") # 导出BOP（RMB）
+# bop_rmb  %>% rio::export("/Users/mac/Github/fisheryounggod/gitdata/china/bop/bop_rmb.csv") # 导出BOP（RMB）
 
 
 # CA of GDP
@@ -42,13 +42,16 @@ ca_of_gdp %>%
     geom_line()
 
 ## GDP_BOP_usd
-gdp_qr %>% inner_join(ex_rate_qr, by = "qtr") %>% head
+(gdp_usd <- gdp_qr %>% 
+    inner_join(ex_rate_qr, by = "qtr") %>% 
+    mutate(gdp_usd = GDP/ex_rate) ) %>% head
 
 
+gdp_usd %>% 
+    inner_join(bop_rmb,by = 'qtr') -> gdp_bop_usd
 
-
-
-
+gdp_bop_usd %>% # 导出BOP-GDP（亿美元）
+    rio::export("/Users/mac/Github/fisheryounggod/gitdata/china/gdp_bop_usd_qr.csv")
 
 
 
