@@ -1,0 +1,97 @@
+VERSION 14.0
+POSITION . . 330 270
+
+LIST dtalist
+BEGIN
+	000001
+	amricancellmapdata
+	cellmapdata
+	countycode
+	china_label
+	china_map
+	china_city_spatial_distance
+	china_province_spatial_distance
+	cjd1617
+	cpi
+	countrysexratio
+	echarts_worldmap
+	gdpjdlj
+	gini_prov
+	huaihe
+	houseprice
+	jdcourse2018a
+	jd2017zsjh
+	life_expentancy
+	moneysupply
+	pm10
+	population
+	population_prov
+	station
+	smoking
+	sexratio
+	titanic
+END
+
+
+OK ok1,      label("确定")
+CANCEL can1, label("取消")
+SUBMIT sub1, label("提交")
+HELP hlp1,   view("help cuselist")
+RESET res1
+COPY copy1
+
+DIALOG main, label("程振兴的个人数据仓库") tabtitle("选择cuse数据库的数据集")
+BEGIN
+	TEXT txt_list	10	5	305	., label("选择你要调用的数据集：")
+	COMBOBOX txtlist 	@	+20	305	., dropdownlist contents(dtalist)
+	TEXTBOX myintro1	@	+40		@	.,	label("▶️欢迎使用我的个人数据库，这里存放了我平时搜集和整")
+	
+	TEXT myintro2	@	+20		@	.,	label("理的一些非常有用的数据集。这些数据集包括股票数据、地")
+	TEXT myintro3	@	+20		@	.,	label("理数据、常用经济数据以及平时我自己爬取的一些数据集。")
+
+	TEXT myintro4	@	+20		@	.,	label("▶️这些Stata数据集经常在我的推文或博客文章中被使用，运行")
+	TEXT myintro5	@	+20		@	.,	label("cuselist命令可以查看当前数据仓库中的所有数据集。")
+	TEXT myintro6	@	+20		@	.,	label("▶️如果你也想拥有一个自己的数据仓库，可以点击下面的链")
+	TEXT myintro7	@	+20		@	.,	label("接进入该命令的项目主页下载该项目的相关文件，只需要简")
+	TEXT myintro8	@	+20		@	.,	label("简单的修改即可做出一个自己的数据仓库。")
+	HLINK mylink 	@	+20		@	.,	label("点击查看cuse系统项目主页") onpush(view browse http://www.czxa.top/cuse) center
+END
+
+DIALOG options, tabtitle("选择选择项")
+BEGIN
+	CHECKBOX clear 	10	5	305	., ///
+		label("清空当前数据集") ///
+		option("clear") ///
+		onclickoff(`"options.status.setlabel "(不清空当前数据集)""') ///
+		onclickon(`"gaction options.status.setlabel "(清空当前数据集)""')
+	TEXT	status	@	+20		@	., ///
+		label("这个不会显示")
+
+	CHECKBOX web 	10	+40	305	., ///
+		label("从远端仓库调用数据集") ///
+		option("web") ///
+		onclickoff(`"options.status1.setlabel "(从本地仓库调用数据集)""') ///
+		onclickon(`"gaction options.status1.setlabel "(从远端仓库调用数据集)""')
+	TEXT	status1	@	+20		@	., ///
+		label("这个不会显示")
+
+	CHECKBOX savetosystem 	10	+40	305	., ///
+		label("保存到系统文件夹") ///
+		option("savetosystem") ///
+		onclickoff(`"options.status2.setlabel "(不保存到系统文件夹)""') ///
+		onclickon(`"gaction options.status2.setlabel "(保存到系统文件夹)""')
+	TEXT	status2	@	+20		@	., ///
+		label("这个不会显示")
+
+END
+
+PROGRAM command
+BEGIN
+	put "cuse "
+	put main.txtlist
+	beginoptions
+		option options.clear
+		option options.web
+		option options.savetosystem
+	endoptions
+END

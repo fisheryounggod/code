@@ -1,0 +1,1223 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pandas_datareader.data",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas_datareader.data",
+        "description": "pandas_datareader.data",
+        "detail": "pandas_datareader.data",
+        "documentation": {}
+    },
+    {
+        "label": "wbgapi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wbgapi",
+        "description": "wbgapi",
+        "detail": "wbgapi",
+        "documentation": {}
+    },
+    {
+        "label": "scipy.optimize",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scipy.optimize",
+        "description": "scipy.optimize",
+        "detail": "scipy.optimize",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "register_dataframe_accessor",
+        "importPath": "pandas.api.extensions",
+        "description": "pandas.api.extensions",
+        "isExtraImport": true,
+        "detail": "pandas.api.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "register_dataframe_accessor",
+        "importPath": "pandas.api.extensions",
+        "description": "pandas.api.extensions",
+        "isExtraImport": true,
+        "detail": "pandas.api.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "register_dataframe_accessor",
+        "importPath": "pandas.api.extensions",
+        "description": "pandas.api.extensions",
+        "isExtraImport": true,
+        "detail": "pandas.api.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "register_dataframe_accessor",
+        "importPath": "pandas.api.extensions",
+        "description": "pandas.api.extensions",
+        "isExtraImport": true,
+        "detail": "pandas.api.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "urlencode",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "myfun.myfun",
+        "description": "myfun.myfun",
+        "isExtraImport": true,
+        "detail": "myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "iso23",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.mydata",
+        "description": "myfun.build.lib.myfun.mydata",
+        "peekOfCode": "def iso23(iso2):\n    \"\"\"\n    将ISO2转为ISO3国家代码\n    \"\"\"\n    import pycountry\n    return pycountry.countries.get(alpha_2=iso2).alpha_3\ndef iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"",
+        "detail": "myfun.build.lib.myfun.mydata",
+        "documentation": {}
+    },
+    {
+        "label": "iso3",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.mydata",
+        "description": "myfun.build.lib.myfun.mydata",
+        "peekOfCode": "def iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"\n    import pycountry\n    try:\n        return pycountry.countries.search_fuzzy(country)[0].alpha_3  # 模糊查找国家¶\n    except LookupError as e:\n        return f\"{e} not found!\"\ndef penn_tri_data():",
+        "detail": "myfun.build.lib.myfun.mydata",
+        "documentation": {}
+    },
+    {
+        "label": "penn_tri_data",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.mydata",
+        "description": "myfun.build.lib.myfun.mydata",
+        "peekOfCode": "def penn_tri_data():\n    # penn_table_variables = {\n    #     'countrycode': '国家代码，通常是 ISO 3 位国家代码（如 USA 表示美国）',\n    #     'country': '国家名称',\n    #     'currency_unit': '货币单位（如美元、欧元等）',\n    #     'year': '年份',\n    #     'rgdpe': '实际国内生产总值（支出法），以 2017 年不变价格衡量',\n    #     'rgdpo': '实际国内生产总值（生产法），以 2017 年不变价格衡量',\n    #     'pop': '人口，国家的总人口数',\n    #     'emp': '就业人数',",
+        "detail": "myfun.build.lib.myfun.mydata",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def names(df):\n    \"\"\"\n    定义一幅图画多个时间序列的函数\n    参数为：df\n    \"\"\"\n    return df.columns.to_list()\n# 通过关键词找匹配变量\ndef find_text(str_list, word):\n    import re\n    pattern = word",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "find_text",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def find_text(str_list, word):\n    import re\n    pattern = word\n    matches = [s for s in str_list if re.search(pattern, s)]\n    return matches\ndef find_key(df, word):\n    \"\"\"\n    通过输入字符关键字查询对应变量的序号\n    \"\"\"\n    column_list = df.columns.to_list()",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "find_key",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def find_key(df, word):\n    \"\"\"\n    通过输入字符关键字查询对应变量的序号\n    \"\"\"\n    column_list = df.columns.to_list()\n    result = pd.DataFrame([(index, item) for index, item in enumerate(column_list) if word in item],\n                            columns=['Index', 'Column Name'])\n    return result\n# 添加Pandas自定义select方法\ndef select(df,regex):",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def select(df,regex):\n    \"\"\"\n    利用filter定义筛选列函数方法。\n    参数：“regex”表达式\n    \"\"\"\n    return df.filter(regex=regex, axis=1)\n# pandas 变量重命名\ndef rename2(df,oldname, newname):\n    df = df.rename(columns={oldname: newname})\n    return df",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "rename2",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def rename2(df,oldname, newname):\n    df = df.rename(columns={oldname: newname})\n    return df\ndef renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "renamere",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:\n        dataframe: 返回修改名称后的DataFrame\n    \"\"\"\n    df = df.rename(columns=lambda x: re.sub(oldname, newname, x)) ",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "mmerge",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def mmerge(dfs, index_A, index_B, how='outer'):\n    \"\"\"\n    将多个数据框按照 A,B 两个索引进行列合并\n        :param dfs: 包含多个 Pandas 数据框的列表\n        :param index_A: 索引 A 名称\n        :param index_B: 索引 B 名称\n        :return: 合并后的 Pandas 数据框\n    \"\"\"\n    result = dfs[0]\n    for df in dfs[1:]:",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "replace_month",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def replace_month(date_str):\n    \"\"\"\n    用来替换月份缩写并格式化为 YYYY-MM\n    \"\"\"\n    month_dict = {\n        'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',\n        'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',\n        'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'\n    }\n    for abbr, num in month_dict.items():",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def import_data(path,sheet=0):\n    \"\"\"\n    读取含有中文的csv格式。\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    from pathlib import Path\n    path = Path(path)\n    if path.suffix.endswith(\"csv\"):\n        return pd.read_csv(path)",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "export_data",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def export_data(df, name):\n    \"\"\"\n    定义函数导出df到00-data\n    参数为：df, xxx.xlsx\n    格式为：xlsx,csv,dta\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    from pathlib import Path\n    path = Path(name)",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "type2date",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def type2date(df, n=0):\n    \"\"\"\n    # 转换指定列为日期并作为索引\n    \"\"\"\n    try:             # 尝试转换为日期类型\n        df['date'] = pd.to_datetime(df.iloc[:,n], errors='ignore')\n    except:\n        pass\n    df.set_index('date', inplace=True)\n    return df",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "type2numeric",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def type2numeric(df, n=1):\n    \"\"\"\n        2.\t转换数字列：使用 pd.to_numeric() 转换为适当的数值类型。\n        3.\t使用 infer_objects()：让 Pandas 自动推断对象类型。\n        4.\t自动处理所有列：使用 apply() 结合自定义转换函数。\n    \"\"\"\n    for col in df.columns[n:]:\n        # 尝试转换为数字类型\n        try:\n            df[col] = pd.to_numeric(df[col], errors='ignore')",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "export_sheet",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def export_sheet(df, name, sheet):\n    \"\"\"\n    定义函数导出df到00-data\n    参数为：df\n    格式为：xlsx/sheet\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    with pd.ExcelWriter(data_path + name+\".xlsx\") as xlsx:\n        df.to_excel(xlsx, sheet_name=sheet, index=False)",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "hp_cycle",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def hp_cycle(y, lamb=1600):\n    \"\"\"\n    HP滤波并返回cycle\n    \"\"\"\n    import numpy as np\n    import pandas as pd\n    import matplotlib.pyplot as plt\n    from statsmodels.tsa.filters.hp_filter import hpfilter\n    cycle,trend = hpfilter(y, lamb)\n    return cycle",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "hp_trend",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def hp_trend(y, lamb=1600):\n    \"\"\"\n    HP滤波并返回trend\n    \"\"\"\n    import numpy as np\n    import pandas as pd\n    import matplotlib.pyplot as plt\n    from statsmodels.tsa.filters.hp_filter import hpfilter\n    cycle,trend = hpfilter(y, lamb)\n    return trend",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "hp_draw",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def hp_draw(y, lamb=1600):\n    \"\"\"\n    HP滤波并画图\n    根据Ravn and Uhlig(2002)的建议，\n    参数lambda：\n        - 对于年度数据lambda参数取值6.25(1600/4^4)，\n        - 对于季度数据取值1600，\n        - 对于月度数据取值129600(1600*3^4)。\n    \"\"\"\n    import numpy as np",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def reg(df, yvar, xvars):\n    \"\"\"\n    OLS线性回归:\n    sm.OLS(Y, X, missing='drop').fit()\n    --> result.summary()\n    \"\"\"\n    import pandas as pd\n    import statsmodels.api as sm\n    data=pd.concat([df[yvar], df[xvars]], axis=1)\n    Y = df[yvar]",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "data_path",
+        "kind": 5,
+        "importPath": "myfun.build.lib.myfun.myfun",
+        "description": "myfun.build.lib.myfun.myfun",
+        "peekOfCode": "data_path = \"/Users/mac/Github/fisheryounggod/gitdata\"\nimport pandas as pd\nimport numpy as np\nfrom datetime import datetime\nimport pandas_datareader.data as web\nimport wbgapi as wb\nimport scipy.optimize as solver\nimport matplotlib.pyplot as plt\n# 类似R names\ndef names(df):",
+        "detail": "myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAccessor",
+        "kind": 6,
+        "importPath": "myfun.build.lib.myfun.mymethod",
+        "description": "myfun.build.lib.myfun.mymethod",
+        "peekOfCode": "class CustomAccessor:\n    def __init__(df, pandas_obj):\n        \"\"\"\n        # Using the custom methods\n        - df.custom.tsline(x='date')\n        - df.custom.summary_statistics()\n        - rolling_avg_df = df.custom.rolling_average(column='value1', window=3)\n        - print(rolling_avg_df)\n        \"\"\"\n        df = pandas_obj  # The DataFrame being passed in",
+        "detail": "myfun.build.lib.myfun.mymethod",
+        "documentation": {}
+    },
+    {
+        "label": "tsline",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myplot",
+        "description": "myfun.build.lib.myfun.myplot",
+        "peekOfCode": "def tsline(df):\n    \"\"\"\n    定义一幅图画多个时间序列的函数\n    参数为：df\n    \"\"\"\n    if df.index.name is None:\n        df = df.type2date()\n    ax = df.plot(figsize=(12, 4))  # df线图\n    plt.axhline(y=0, color='black', linestyle='--')  # 添加水平线 y=0\n    plt.title('Time Series Plot')",
+        "detail": "myfun.build.lib.myfun.myplot",
+        "documentation": {}
+    },
+    {
+        "label": "ggplot",
+        "kind": 2,
+        "importPath": "myfun.build.lib.myfun.myplot",
+        "description": "myfun.build.lib.myfun.myplot",
+        "peekOfCode": "def ggplot(df,x,y,label):\n    \"\"\"\n    ggplot2 格式Python画图\n    \"\"\"\n    from plotnine import ggplot, aes, geom_col, geom_text,lims, position_dodge, geom_point, geom_line\n    import matplotlib.pyplot as plt\n    from matplotlib.font_manager import FontProperties\n    # 指定中文字体路径\n    font = FontProperties(fname='/System/Library/Fonts/Supplemental/Songti.ttc')  # macOS 的示例路径，Windows/Linux 需要相应调整\n    # 设置 `matplotlib` 字体",
+        "detail": "myfun.build.lib.myfun.myplot",
+        "documentation": {}
+    },
+    {
+        "label": "iso23",
+        "kind": 2,
+        "importPath": "myfun.myfun.mydata",
+        "description": "myfun.myfun.mydata",
+        "peekOfCode": "def iso23(iso2):\n    \"\"\"\n    将ISO2转为ISO3国家代码\n    \"\"\"\n    import pycountry\n    return pycountry.countries.get(alpha_2=iso2).alpha_3\ndef iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"",
+        "detail": "myfun.myfun.mydata",
+        "documentation": {}
+    },
+    {
+        "label": "iso3",
+        "kind": 2,
+        "importPath": "myfun.myfun.mydata",
+        "description": "myfun.myfun.mydata",
+        "peekOfCode": "def iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"\n    import pycountry\n    try:\n        return pycountry.countries.search_fuzzy(country)[0].alpha_3  # 模糊查找国家¶\n    except LookupError as e:\n        return f\"{e} not found!\"\ndef penn_tri_data():",
+        "detail": "myfun.myfun.mydata",
+        "documentation": {}
+    },
+    {
+        "label": "penn_tri_data",
+        "kind": 2,
+        "importPath": "myfun.myfun.mydata",
+        "description": "myfun.myfun.mydata",
+        "peekOfCode": "def penn_tri_data():\n    # penn_table_variables = {\n    #     'countrycode': '国家代码，通常是 ISO 3 位国家代码（如 USA 表示美国）',\n    #     'country': '国家名称',\n    #     'currency_unit': '货币单位（如美元、欧元等）',\n    #     'year': '年份',\n    #     'rgdpe': '实际国内生产总值（支出法），以 2017 年不变价格衡量',\n    #     'rgdpo': '实际国内生产总值（生产法），以 2017 年不变价格衡量',\n    #     'pop': '人口，国家的总人口数',\n    #     'emp': '就业人数',",
+        "detail": "myfun.myfun.mydata",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def names(df):\n    \"\"\"\n    定义一幅图画多个时间序列的函数\n    参数为：df\n    \"\"\"\n    return df.columns.to_list()\n# 通过关键词找匹配变量\ndef find_text(str_list, word):\n    import re\n    pattern = word",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "find_text",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def find_text(str_list, word):\n    import re\n    pattern = word\n    matches = [s for s in str_list if re.search(pattern, s)]\n    return matches\ndef find_key(df, word):\n    \"\"\"\n    通过输入字符关键字查询对应变量的序号\n    \"\"\"\n    column_list = df.columns.to_list()",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "find_key",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def find_key(df, word):\n    \"\"\"\n    通过输入字符关键字查询对应变量的序号\n    \"\"\"\n    column_list = df.columns.to_list()\n    result = pd.DataFrame([(index, item) for index, item in enumerate(column_list) if word in item],\n                            columns=['Index', 'Column Name'])\n    return result\n# 添加Pandas自定义select方法\ndef select(df,regex):",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def select(df,regex):\n    \"\"\"\n    利用filter定义筛选列函数方法。\n    参数：“regex”表达式\n    \"\"\"\n    return df.filter(regex=regex, axis=1)\n# pandas 变量重命名\ndef rename2(df,oldname, newname):\n    df = df.rename(columns={oldname: newname})\n    return df",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "rename2",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def rename2(df,oldname, newname):\n    df = df.rename(columns={oldname: newname})\n    return df\ndef renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "renamere",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:\n        dataframe: 返回修改名称后的DataFrame\n    \"\"\"\n    df = df.rename(columns=lambda x: re.sub(oldname, newname, x)) ",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "mmerge",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def mmerge(dfs, index_A, index_B, how='outer'):\n    \"\"\"\n    将多个数据框按照 A,B 两个索引进行列合并\n        :param dfs: 包含多个 Pandas 数据框的列表\n        :param index_A: 索引 A 名称\n        :param index_B: 索引 B 名称\n        :return: 合并后的 Pandas 数据框\n    \"\"\"\n    result = dfs[0]\n    for df in dfs[1:]:",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "replace_month",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def replace_month(date_str):\n    \"\"\"\n    用来替换月份缩写并格式化为 YYYY-MM\n    \"\"\"\n    month_dict = {\n        'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',\n        'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',\n        'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'\n    }\n    for abbr, num in month_dict.items():",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def import_data(path,sheet=0):\n    \"\"\"\n    读取含有中文的csv格式。\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    from pathlib import Path\n    path = Path(path)\n    if path.suffix.endswith(\"csv\"):\n        return pd.read_csv(path)",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "export_data",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def export_data(df, name):\n    \"\"\"\n    定义函数导出df到00-data\n    参数为：df, xxx.xlsx\n    格式为：xlsx,csv,dta\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    from pathlib import Path\n    path = Path(name)",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "type2date",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def type2date(df, n=0):\n    \"\"\"\n    # 转换指定列为日期并作为索引\n    \"\"\"\n    try:             # 尝试转换为日期类型\n        df['date'] = pd.to_datetime(df.iloc[:,n], errors='ignore')\n    except:\n        pass\n    df.set_index('date', inplace=True)\n    return df",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "type2numeric",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def type2numeric(df, n=1):\n    \"\"\"\n        2.\t转换数字列：使用 pd.to_numeric() 转换为适当的数值类型。\n        3.\t使用 infer_objects()：让 Pandas 自动推断对象类型。\n        4.\t自动处理所有列：使用 apply() 结合自定义转换函数。\n    \"\"\"\n    for col in df.columns[n:]:\n        # 尝试转换为数字类型\n        try:\n            df[col] = pd.to_numeric(df[col], errors='ignore')",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "export_sheet",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def export_sheet(df, name, sheet):\n    \"\"\"\n    定义函数导出df到00-data\n    参数为：df\n    格式为：xlsx/sheet\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    with pd.ExcelWriter(data_path + name+\".xlsx\") as xlsx:\n        df.to_excel(xlsx, sheet_name=sheet, index=False)",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "hp_cycle",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def hp_cycle(y, lamb=1600):\n    \"\"\"\n    HP滤波并返回cycle\n    \"\"\"\n    import numpy as np\n    import pandas as pd\n    import matplotlib.pyplot as plt\n    from statsmodels.tsa.filters.hp_filter import hpfilter\n    cycle,trend = hpfilter(y, lamb)\n    return cycle",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "hp_trend",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def hp_trend(y, lamb=1600):\n    \"\"\"\n    HP滤波并返回trend\n    \"\"\"\n    import numpy as np\n    import pandas as pd\n    import matplotlib.pyplot as plt\n    from statsmodels.tsa.filters.hp_filter import hpfilter\n    cycle,trend = hpfilter(y, lamb)\n    return trend",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "hp_draw",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def hp_draw(y, lamb=1600):\n    \"\"\"\n    HP滤波并画图\n    根据Ravn and Uhlig(2002)的建议，\n    参数lambda：\n        - 对于年度数据lambda参数取值6.25(1600/4^4)，\n        - 对于季度数据取值1600，\n        - 对于月度数据取值129600(1600*3^4)。\n    \"\"\"\n    import numpy as np",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 2,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "def reg(df, yvar, xvars):\n    \"\"\"\n    OLS线性回归:\n    sm.OLS(Y, X, missing='drop').fit()\n    --> result.summary()\n    \"\"\"\n    import pandas as pd\n    import statsmodels.api as sm\n    data=pd.concat([df[yvar], df[xvars]], axis=1)\n    Y = df[yvar]",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "data_path",
+        "kind": 5,
+        "importPath": "myfun.myfun.myfun",
+        "description": "myfun.myfun.myfun",
+        "peekOfCode": "data_path = \"/Users/mac/Github/fisheryounggod/gitdata\"\nimport pandas as pd\nimport numpy as np\nfrom datetime import datetime\nimport pandas_datareader.data as web\nimport wbgapi as wb\nimport scipy.optimize as solver\nimport matplotlib.pyplot as plt\n# 类似R names\ndef names(df):",
+        "detail": "myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAccessor",
+        "kind": 6,
+        "importPath": "myfun.myfun.mymethod",
+        "description": "myfun.myfun.mymethod",
+        "peekOfCode": "class CustomAccessor:\n    def __init__(df, pandas_obj):\n        \"\"\"\n        # Using the custom methods\n        - df.custom.tsline(x='date')\n        - df.custom.summary_statistics()\n        - rolling_avg_df = df.custom.rolling_average(column='value1', window=3)\n        - print(rolling_avg_df)\n        \"\"\"\n        df = pandas_obj  # The DataFrame being passed in",
+        "detail": "myfun.myfun.mymethod",
+        "documentation": {}
+    },
+    {
+        "label": "tsline",
+        "kind": 2,
+        "importPath": "myfun.myfun.myplot",
+        "description": "myfun.myfun.myplot",
+        "peekOfCode": "def tsline(df):\n    \"\"\"\n    定义一幅图画多个时间序列的函数\n    参数为：df\n    \"\"\"\n    if df.index.name is None:\n        df = df.type2date()\n    ax = df.plot(figsize=(12, 4))  # df线图\n    plt.axhline(y=0, color='black', linestyle='--')  # 添加水平线 y=0\n    plt.title('Time Series Plot')",
+        "detail": "myfun.myfun.myplot",
+        "documentation": {}
+    },
+    {
+        "label": "ggplot",
+        "kind": 2,
+        "importPath": "myfun.myfun.myplot",
+        "description": "myfun.myfun.myplot",
+        "peekOfCode": "def ggplot(df,x,y,label):\n    \"\"\"\n    ggplot2 格式Python画图\n    \"\"\"\n    from plotnine import ggplot, aes, geom_col, geom_text,lims, position_dodge, geom_point, geom_line\n    import matplotlib.pyplot as plt\n    from matplotlib.font_manager import FontProperties\n    # 指定中文字体路径\n    font = FontProperties(fname='/System/Library/Fonts/Supplemental/Songti.ttc')  # macOS 的示例路径，Windows/Linux 需要相应调整\n    # 设置 `matplotlib` 字体",
+        "detail": "myfun.myfun.myplot",
+        "documentation": {}
+    },
+    {
+        "label": "hello_func",
+        "kind": 2,
+        "importPath": "setuptools study.demo.helloapp.hello",
+        "description": "setuptools study.demo.helloapp.hello",
+        "peekOfCode": "def hello_func():\n    print(\"HelloWorld\")",
+        "detail": "setuptools study.demo.helloapp.hello",
+        "documentation": {}
+    },
+    {
+        "label": "myapp_func",
+        "kind": 2,
+        "importPath": "setuptools study.demo.myapp.myapp",
+        "description": "setuptools study.demo.myapp.myapp",
+        "peekOfCode": "def myapp_func():\n    print(\"嘿嘿嘿\")",
+        "detail": "setuptools study.demo.myapp.myapp",
+        "documentation": {}
+    },
+    {
+        "label": "myapp_func",
+        "kind": 2,
+        "importPath": "setuptools study.demo1.myapp.myapp",
+        "description": "setuptools study.demo1.myapp.myapp",
+        "peekOfCode": "def myapp_func():\n    print(\"嘿嘿嘿\")",
+        "detail": "setuptools study.demo1.myapp.myapp",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "setuptools study.hello.build.lib.hello.hello",
+        "description": "setuptools study.hello.build.lib.hello.hello",
+        "peekOfCode": "def hello():\n    print(\"hello setuptools!\")",
+        "detail": "setuptools study.hello.build.lib.hello.hello",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "setuptools study.hello.hello.hello",
+        "description": "setuptools study.hello.hello.hello",
+        "peekOfCode": "def hello():\n    print(\"hello setuptools!\")",
+        "detail": "setuptools study.hello.hello.hello",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAccessor",
+        "kind": 6,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "class CustomAccessor:\n    def __init__(self, pandas_obj):\n        self._obj = pandas_obj  # The DataFrame being passed in\n    def __call__(self):\n        \"\"\"\n        定义一幅图画多个时间序列的函数\n        参数为：df\n        \"\"\"\n        return self._obj.columns.to_list()",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "rename2",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def rename2(df,oldname, newname):\n    df = df.rename(columns={oldname: newname})\n    return df\ndef renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "renamere",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:\n        dataframe: 返回修改名称后的DataFrame\n    \"\"\"\n    df = df.rename(columns=lambda x: re.sub(oldname, newname, x)) ",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "iso23",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def iso23(iso2):\n    \"\"\"\n    将ISO2转为ISO3国家代码\n    \"\"\"\n    import pycountry\n    return pycountry.countries.get(alpha_2=iso2).alpha_3\ndef iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "iso3",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"\n    import pycountry\n    try:\n        return pycountry.countries.search_fuzzy(country)[0].alpha_3  # 模糊查找国家¶\n    except LookupError as e:\n        return f\"{e} not found!\"\ndef mmerge(dfs, index_A, index_B, how='outer'):",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "mmerge",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def mmerge(dfs, index_A, index_B, how='outer'):\n    \"\"\"\n    将多个数据框按照 A,B 两个索引进行列合并\n        :param dfs: 包含多个 Pandas 数据框的列表\n        :param index_A: 索引 A 名称\n        :param index_B: 索引 B 名称\n        :return: 合并后的 Pandas 数据框\n    \"\"\"\n    result = dfs[0]\n    for df in dfs[1:]:",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "replace_month",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def replace_month(date_str):\n    \"\"\"\n    用来替换月份缩写并格式化为 YYYY-MM\n    \"\"\"\n    month_dict = {\n        'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',\n        'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',\n        'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'\n    }\n    for abbr, num in month_dict.items():",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def reg(df, yvar, xvars):\n    \"\"\"\n    OLS线性回归:\n    sm.OLS(Y, X, missing='drop').fit()\n    --> result.summary()\n    \"\"\"\n    import pandas as pd\n    import statsmodels.api as sm\n    data=pd.concat([df[yvar], df[xvars]], axis=1)\n    Y = df[yvar]",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def import_data(path,sheet=0):\n    \"\"\"\n    读取含有中文的csv格式。\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    from pathlib import Path\n    path = Path(path)\n    if path.suffix.endswith(\"csv\"):\n        return pd.read_csv(path)",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "find_text",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def find_text(str_list, word):\n    import re\n    pattern = word\n    matches = [s for s in str_list if re.search(pattern, s)]\n    return matches\ndef ggplot(df,x,y,label):\n    \"\"\"\n    ggplot2 格式Python画图\n    \"\"\"\n    from plotnine import ggplot, aes, geom_col, geom_text,lims, position_dodge, geom_point, geom_line",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "ggplot",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "def ggplot(df,x,y,label):\n    \"\"\"\n    ggplot2 格式Python画图\n    \"\"\"\n    from plotnine import ggplot, aes, geom_col, geom_text,lims, position_dodge, geom_point, geom_line\n    import matplotlib.pyplot as plt\n    from matplotlib.font_manager import FontProperties\n    # 指定中文字体路径\n    font = FontProperties(fname='/System/Library/Fonts/Supplemental/Songti.ttc')  # macOS 的示例路径，Windows/Linux 需要相应调整\n    # 设置 `matplotlib` 字体",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "data_path",
+        "kind": 5,
+        "importPath": "setuptools study.myfun.build.lib.myfun.myfun",
+        "description": "setuptools study.myfun.build.lib.myfun.myfun",
+        "peekOfCode": "data_path = \"/Users/mac/Github/fisheryounggod/gitdata\"\nimport pandas as pd\nimport numpy as np\nfrom datetime import datetime\nimport pandas_datareader.data as web\nimport wbgapi as wb\nimport scipy.optimize as solver\nimport matplotlib.pyplot as plt\n# pandas 变量重命名\ndef rename2(df,oldname, newname):",
+        "detail": "setuptools study.myfun.build.lib.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAccessor",
+        "kind": 6,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "class CustomAccessor:\n    def __init__(self, pandas_obj):\n        self._obj = pandas_obj  # The DataFrame being passed in\n    def __call__(self):\n        \"\"\"\n        定义一幅图画多个时间序列的函数\n        参数为：df\n        \"\"\"\n        return self._obj.columns.to_list()",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "rename2",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def rename2(df,oldname, newname):\n    df = df.rename(columns={oldname: newname})\n    return df\ndef renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "renamere",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def renamere(df, oldname, newname):\n    \"\"\"正则重命名\n    Args:\n        df (dataframe): df\n        newname (dataframe): 新名称\n        oldname (dataframe): 旧名称\n    Returns:\n        dataframe: 返回修改名称后的DataFrame\n    \"\"\"\n    df = df.rename(columns=lambda x: re.sub(oldname, newname, x)) ",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "iso23",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def iso23(iso2):\n    \"\"\"\n    将ISO2转为ISO3国家代码\n    \"\"\"\n    import pycountry\n    return pycountry.countries.get(alpha_2=iso2).alpha_3\ndef iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "iso3",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def iso3(country,n=3):\n    \"\"\"\n     输入字符串模糊查找国家¶ios3\n    \"\"\"\n    import pycountry\n    try:\n        return pycountry.countries.search_fuzzy(country)[0].alpha_3  # 模糊查找国家¶\n    except LookupError as e:\n        return f\"{e} not found!\"\ndef mmerge(dfs, index_A, index_B, how='outer'):",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "mmerge",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def mmerge(dfs, index_A, index_B, how='outer'):\n    \"\"\"\n    将多个数据框按照 A,B 两个索引进行列合并\n        :param dfs: 包含多个 Pandas 数据框的列表\n        :param index_A: 索引 A 名称\n        :param index_B: 索引 B 名称\n        :return: 合并后的 Pandas 数据框\n    \"\"\"\n    result = dfs[0]\n    for df in dfs[1:]:",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "replace_month",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def replace_month(date_str):\n    \"\"\"\n    用来替换月份缩写并格式化为 YYYY-MM\n    \"\"\"\n    month_dict = {\n        'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',\n        'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',\n        'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'\n    }\n    for abbr, num in month_dict.items():",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def reg(df, yvar, xvars):\n    \"\"\"\n    OLS线性回归:\n    sm.OLS(Y, X, missing='drop').fit()\n    --> result.summary()\n    \"\"\"\n    import pandas as pd\n    import statsmodels.api as sm\n    data=pd.concat([df[yvar], df[xvars]], axis=1)\n    Y = df[yvar]",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "import_data",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def import_data(path,sheet=0):\n    \"\"\"\n    读取含有中文的csv格式。\n    \"\"\"\n    import pandas as pd\n    import numpy as np\n    from pathlib import Path\n    path = Path(path)\n    if path.suffix.endswith(\"csv\"):\n        return pd.read_csv(path)",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "find_text",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def find_text(str_list, word):\n    import re\n    pattern = word\n    matches = [s for s in str_list if re.search(pattern, s)]\n    return matches\ndef ggplot(df,x,y,label):\n    \"\"\"\n    ggplot2 格式Python画图\n    \"\"\"\n    from plotnine import ggplot, aes, geom_col, geom_text,lims, position_dodge, geom_point, geom_line",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "ggplot",
+        "kind": 2,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "def ggplot(df,x,y,label):\n    \"\"\"\n    ggplot2 格式Python画图\n    \"\"\"\n    from plotnine import ggplot, aes, geom_col, geom_text,lims, position_dodge, geom_point, geom_line\n    import matplotlib.pyplot as plt\n    from matplotlib.font_manager import FontProperties\n    # 指定中文字体路径\n    font = FontProperties(fname='/System/Library/Fonts/Supplemental/Songti.ttc')  # macOS 的示例路径，Windows/Linux 需要相应调整\n    # 设置 `matplotlib` 字体",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "data_path",
+        "kind": 5,
+        "importPath": "setuptools study.myfun.myfun.myfun",
+        "description": "setuptools study.myfun.myfun.myfun",
+        "peekOfCode": "data_path = \"/Users/mac/Github/fisheryounggod/gitdata\"\nimport pandas as pd\nimport numpy as np\nfrom datetime import datetime\nimport pandas_datareader.data as web\nimport wbgapi as wb\nimport scipy.optimize as solver\nimport matplotlib.pyplot as plt\n# pandas 变量重命名\ndef rename2(df,oldname, newname):",
+        "detail": "setuptools study.myfun.myfun.myfun",
+        "documentation": {}
+    },
+    {
+        "label": "getReg",
+        "kind": 2,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "def getReg(province):\n    reg = provinceData[provinceData['province'] == province].values[0][1]\n    return reg\ndef parseData(data):\n    totalData = {}\n    for i, el in enumerate(data):\n        currDataCode = el['code'].split('.')\n        zbName = currDataCode[1]\n        if zbName not in totalData:\n            totalData[zbName] = {}",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "parseData",
+        "kind": 2,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "def parseData(data):\n    totalData = {}\n    for i, el in enumerate(data):\n        currDataCode = el['code'].split('.')\n        zbName = currDataCode[1]\n        if zbName not in totalData:\n            totalData[zbName] = {}\n        totalData[zbName][currDataCode[-1]] = el['data']['data']\n    return totalData\ndef parseJsonData(data):",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "parseJsonData",
+        "kind": 2,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "def parseJsonData(data):\n    data = json.loads(data)\n    data = data['returndata']['datanodes']\n    return parseData(data)\ndef query(reg, zb, sj, dbcode):\n    stringParams['dbcode'] = dbcode\n    if reg != None:\n        reg = str(getReg(reg))\n        stringParams['wds'] = \"[{\\\"wdcode\\\":\\\"reg\\\",\\\"valuecode\\\":\\\"\" + reg + \"\\\"}]\"\n    else:",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 2,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "def query(reg, zb, sj, dbcode):\n    stringParams['dbcode'] = dbcode\n    if reg != None:\n        reg = str(getReg(reg))\n        stringParams['wds'] = \"[{\\\"wdcode\\\":\\\"reg\\\",\\\"valuecode\\\":\\\"\" + reg + \"\\\"}]\"\n    else:\n        stringParams['wds'] = \"[]\"\n    stringParams['dfwds'] = \"[{\\\"wdcode\\\":\\\"zb\\\",\\\"valuecode\\\":\\\"\" + zb + \"\\\"},{\\\"wdcode\\\":\\\"sj\\\",\\\"valuecode\\\":\\\"\" + sj + \"\\\"}]\"\n    reqUrl = url + \"?\" +  urlencode(stringParams)\n    text = requests.get(reqUrl, verify=False).text",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "url = \"https://data.stats.gov.cn/easyquery.htm\"\nstringParams = {\n    \"m\": \"QueryData\",\n    \"dbcode\": \"fsnd\",\n    \"rowcode\": \"zb\",\n    \"colcode\": \"sj\",\n    \"wds\": \"[{\\\"wdcode\\\":\\\"reg\\\",\\\"valuecode\\\":\\\"430000\\\"}]\", \n    \"dfwds\": \"[{\\\"wdcode\\\":\\\"zb\\\",\\\"valuecode\\\":\\\"A0202\\\"},{\\\"wdcode\\\":\\\"sj\\\",\\\"valuecode\\\":\\\"LAST50\\\"}]\",\n    # wds 和 dfwds 是爬取过程中相当重要的两个参数\n    \"k1\": int(time.time()),",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "stringParams",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "stringParams = {\n    \"m\": \"QueryData\",\n    \"dbcode\": \"fsnd\",\n    \"rowcode\": \"zb\",\n    \"colcode\": \"sj\",\n    \"wds\": \"[{\\\"wdcode\\\":\\\"reg\\\",\\\"valuecode\\\":\\\"430000\\\"}]\", \n    \"dfwds\": \"[{\\\"wdcode\\\":\\\"zb\\\",\\\"valuecode\\\":\\\"A0202\\\"},{\\\"wdcode\\\":\\\"sj\\\",\\\"valuecode\\\":\\\"LAST50\\\"}]\",\n    # wds 和 dfwds 是爬取过程中相当重要的两个参数\n    \"k1\": int(time.time()),\n    \"h\": 1,",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "provinceData",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "provinceData = pd.read_csv('./province.csv')\ndef getReg(province):\n    reg = provinceData[provinceData['province'] == province].values[0][1]\n    return reg\ndef parseData(data):\n    totalData = {}\n    for i, el in enumerate(data):\n        currDataCode = el['code'].split('.')\n        zbName = currDataCode[1]\n        if zbName not in totalData:",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "parser = ArgumentParser()\nzbExplain = '''\n打开国家统计局官网(https://data.stats.gov.cn/easyquery.htm)\n在左边的列选择你要查询的数据，往下点，直到找到你需要的指标，\n依据点击路线，可以如此命名 Axxyyzz\n其中A为默认头部，xx表示第一层索引（从1开始，如1为01, 超过10之后开始以字母为序如10 换成 0A, 11换成0B）\n，yy为第二层，zz为第三层，以此类推\n'''\nsjExplain = '''\n时间查询支持4中模式：",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "zbExplain",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "zbExplain = '''\n打开国家统计局官网(https://data.stats.gov.cn/easyquery.htm)\n在左边的列选择你要查询的数据，往下点，直到找到你需要的指标，\n依据点击路线，可以如此命名 Axxyyzz\n其中A为默认头部，xx表示第一层索引（从1开始，如1为01, 超过10之后开始以字母为序如10 换成 0A, 11换成0B）\n，yy为第二层，zz为第三层，以此类推\n'''\nsjExplain = '''\n时间查询支持4中模式：\n1. LASTxx： 最近xx行数据",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "sjExplain",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "sjExplain = '''\n时间查询支持4中模式：\n1. LASTxx： 最近xx行数据\n2. 2005-2021： 查询2005年到2021年的数据,以年为单位\n3. 2010A-2022B: 查询2010年第一季度到2022年第二季度的数据，以季度为单位\n4. 201001-202112: 查询2010年1月到2021年12月的数据，以月为单位\n'''\nparser.add_argument('--zb', type=str, help=zbExplain)\nparser.add_argument('--reg', type=str, default=None, help='指定地区, 比方说: 湖北省, 北京市')\nparser.add_argument('--sj', type=str, help=sjExplain)",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "zb",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "zb = parser.parse_args().zb\nreg = parser.parse_args().reg\nsj = parser.parse_args().sj\ndbcode = parser.parse_args().dbcode\ndata = pd.DataFrame()\nif (re.match(r'^LAST\\d+$', sj)):\n    # print('这里', sj)\n    data = pd.DataFrame(query(reg, zb, sj, dbcode))\n    sj = sj\nelif (re.match(r'^\\d{4}-\\d{4}$', sj)):",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "reg = parser.parse_args().reg\nsj = parser.parse_args().sj\ndbcode = parser.parse_args().dbcode\ndata = pd.DataFrame()\nif (re.match(r'^LAST\\d+$', sj)):\n    # print('这里', sj)\n    data = pd.DataFrame(query(reg, zb, sj, dbcode))\n    sj = sj\nelif (re.match(r'^\\d{4}-\\d{4}$', sj)):\n    now = int(datetime.now().strftime('%Y'))",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "sj",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "sj = parser.parse_args().sj\ndbcode = parser.parse_args().dbcode\ndata = pd.DataFrame()\nif (re.match(r'^LAST\\d+$', sj)):\n    # print('这里', sj)\n    data = pd.DataFrame(query(reg, zb, sj, dbcode))\n    sj = sj\nelif (re.match(r'^\\d{4}-\\d{4}$', sj)):\n    now = int(datetime.now().strftime('%Y'))\n    [start, end] = sj.split('-')",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "dbcode",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "dbcode = parser.parse_args().dbcode\ndata = pd.DataFrame()\nif (re.match(r'^LAST\\d+$', sj)):\n    # print('这里', sj)\n    data = pd.DataFrame(query(reg, zb, sj, dbcode))\n    sj = sj\nelif (re.match(r'^\\d{4}-\\d{4}$', sj)):\n    now = int(datetime.now().strftime('%Y'))\n    [start, end] = sj.split('-')\n    start = int(start)",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "统计局爬虫.nationsta",
+        "description": "统计局爬虫.nationsta",
+        "peekOfCode": "data = pd.DataFrame()\nif (re.match(r'^LAST\\d+$', sj)):\n    # print('这里', sj)\n    data = pd.DataFrame(query(reg, zb, sj, dbcode))\n    sj = sj\nelif (re.match(r'^\\d{4}-\\d{4}$', sj)):\n    now = int(datetime.now().strftime('%Y'))\n    [start, end] = sj.split('-')\n    start = int(start)\n    end = int(end)",
+        "detail": "统计局爬虫.nationsta",
+        "documentation": {}
+    },
+    {
+        "label": "handle_data_to_dict",
+        "kind": 2,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "def handle_data_to_dict(wdnode):\n    \"\"\"\n    处理数据字典\n    :param wdnode:\n    :return:\n    \"\"\"\n    zb_dict = {}\n    reg_dict = {}\n    for item in wdnode:\n        if item[\"wdcode\"] == \"zb\":",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "Tools",
+        "kind": 2,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "def Tools(url):     \n    # 模拟浏览器请求 防止被反爬  请求头     \n    headers = {         \n               'Referer': 'www.stats.gov.cn/tjsj/pcsj/r…',        \n               'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.59'     }     \n    response = requests.get(url, headers=headers)     \n    return response\ndef Save(name, urls):     \n    '''     \n    请求Excel下载地址 并且保存到代码同路径的 index文件夹     :param name: ",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "Save",
+        "kind": 2,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "def Save(name, urls):     \n    '''     \n    请求Excel下载地址 并且保存到代码同路径的 index文件夹     :param name: \n    存储的名称     :param \n    urls: xls \n    下载地址     :\n    return:     \n    '''     \n    response = Tools(urls).content  # 返回的是字节     \n    f = open('{}.xls'.format(name), 'ab')     ",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "url = \"https://data.stats.gov.cn/easyquery.htm\"\nparams = {\n    'm': 'QueryData',\n    'dbcode': 'fsnd',\n    'rowcode': 'zb',\n    'colcode': 'reg',\n    'wds': '[{\"wdcode\":\"sj\",\"valuecode\":\"2021\"}]',\n    'dfwds': '[{\"wdcode\":\"zb\",\"valuecode\":\"A0502\"}]',\n    'k1': str(int(time.time() * 1000)),\n    'h': '1'",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "params",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "params = {\n    'm': 'QueryData',\n    'dbcode': 'fsnd',\n    'rowcode': 'zb',\n    'colcode': 'reg',\n    'wds': '[{\"wdcode\":\"sj\",\"valuecode\":\"2021\"}]',\n    'dfwds': '[{\"wdcode\":\"zb\",\"valuecode\":\"A0502\"}]',\n    'k1': str(int(time.time() * 1000)),\n    'h': '1'\n}",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "response = requests.get(url, params=params, verify=False)\n# 输出响应内容\nprint(response.text)\ndata = response.json()\n#%%\ndef handle_data_to_dict(wdnode):\n    \"\"\"\n    处理数据字典\n    :param wdnode:\n    :return:",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "data = response.json()\n#%%\ndef handle_data_to_dict(wdnode):\n    \"\"\"\n    处理数据字典\n    :param wdnode:\n    :return:\n    \"\"\"\n    zb_dict = {}\n    reg_dict = {}",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "url = 'http://www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/lefte.htm'\nresponse = Tools(url).content.decode('gbk')\nhtml = etree.HTML(response) # 创建HTML对象\ntitle = html.xpath('//ul[@id=\"foldinglist\"]/li/a/text()') # text获取该标签内的文字内容\ndetails = html.xpath('//ul[@id=\"foldinglist\"]/li/a/@href') [:-13]# 下载地址的后缀\nfor t, d in zip(title, details):     \n    urls = 'www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/' + d     \n    Save(t, urls) \n# %%",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "response = Tools(url).content.decode('gbk')\nhtml = etree.HTML(response) # 创建HTML对象\ntitle = html.xpath('//ul[@id=\"foldinglist\"]/li/a/text()') # text获取该标签内的文字内容\ndetails = html.xpath('//ul[@id=\"foldinglist\"]/li/a/@href') [:-13]# 下载地址的后缀\nfor t, d in zip(title, details):     \n    urls = 'www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/' + d     \n    Save(t, urls) \n# %%",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "html = etree.HTML(response) # 创建HTML对象\ntitle = html.xpath('//ul[@id=\"foldinglist\"]/li/a/text()') # text获取该标签内的文字内容\ndetails = html.xpath('//ul[@id=\"foldinglist\"]/li/a/@href') [:-13]# 下载地址的后缀\nfor t, d in zip(title, details):     \n    urls = 'www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/' + d     \n    Save(t, urls) \n# %%",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "title",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "title = html.xpath('//ul[@id=\"foldinglist\"]/li/a/text()') # text获取该标签内的文字内容\ndetails = html.xpath('//ul[@id=\"foldinglist\"]/li/a/@href') [:-13]# 下载地址的后缀\nfor t, d in zip(title, details):     \n    urls = 'www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/' + d     \n    Save(t, urls) \n# %%",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "details",
+        "kind": 5,
+        "importPath": "统计局爬虫.spy",
+        "description": "统计局爬虫.spy",
+        "peekOfCode": "details = html.xpath('//ul[@id=\"foldinglist\"]/li/a/@href') [:-13]# 下载地址的后缀\nfor t, d in zip(title, details):     \n    urls = 'www.stats.gov.cn/tjsj/pcsj/rkpc/6rp/' + d     \n    Save(t, urls) \n# %%",
+        "detail": "统计局爬虫.spy",
+        "documentation": {}
+    },
+    {
+        "label": "gdp_qr",
+        "kind": 5,
+        "importPath": "data_import",
+        "description": "data_import",
+        "peekOfCode": "gdp_qr = pd.read_csv(\"https://fisheryounggod.github.io/gitdata/csv/china_gdp_qr.csv\")\n#%%",
+        "detail": "data_import",
+        "documentation": {}
+    }
+]
